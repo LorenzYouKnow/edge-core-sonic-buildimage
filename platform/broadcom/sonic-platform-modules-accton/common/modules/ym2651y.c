@@ -33,7 +33,7 @@
 #include <linux/slab.h>
 #include <linux/kthread.h>
 #include <linux/delay.h>
-#include "accton_psu_defs.h"
+#include "../../common/modules/accton_psu_defs.h"
 #define __STDC_WANT_LIB_EXT1__ 1
 #include <linux/string.h>
 
